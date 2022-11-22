@@ -2,7 +2,7 @@
 Pixel Palettizer is a GIMP script that aims to streamline the process of scaling and color mapping pixel art to allow the user to quickly get from importing an image to modifying its palette.
 
 ## Installation
-- Download "Pixel Palettizer.scm"
+- Download "Pixel Palettizer.scm" (Right click > Save Link As...)
 - In GIMP navigate to Edit > Preferences > Folders > Scripts
 - Choose a folder in the list and click the button labeled "Show file location in file manager" **\***
 - Place the script file in the scripts folder (.../scripts/Pixel Palettizer.scm)
