@@ -4,9 +4,10 @@ Pixel Palettizer is a GIMP script that aims to streamline the process of scaling
 ## Installation
 - Download "Pixel Palettizer.scm"
 - In GIMP navigate to Edit > Preferences > Folders > Scripts
-- Choose a folder in the list and click the button labeled "Show file location in file manager"
+- Choose a folder in the list and click the button labeled "Show file location in file manager" **\***
 - Place the script file in the scripts folder (.../scripts/Pixel Palettizer.scm)
 - Back in GIMP navigate to Filters > Script-Fu > Refresh Scripts
+- To open the colormap dock that you'll use to modify the palette navigate to Windows > Dockable Dialogs > Colormap
 
 ## Options
 - Scale: a numerical value to scale the height and width of the image by
@@ -47,5 +48,5 @@ Give photos and other pictures a pixel art style. Note: this script applies scal
 
 Recommended settings:
 - Scale: ≤1
-- Number of colors: 4, 8, 16, 32, 64
+- Number of colors: 4, 8, 16, 32, 64, . . .
 - Dithering: None (heavy banding), FS Normal or Reduced (less banding)
